@@ -1,0 +1,16 @@
+.box {
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  /* background: transparent; */
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+}
+.text {
+  font-weight: 700;
+}
+.tabs {
+  /* border: 1px solid red; */
+}
+.tablist {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 30px;
+}
